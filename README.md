@@ -1,2 +1,2 @@
 # Projects
-Various
+Sample python programs that I programmed and toyed with.
